@@ -1,0 +1,5 @@
+## Зависимости
+Этот репозиторий ожидает, что рядом (`../pathfinder-crusade-wiki`) склонирован
+репозиторий с хоумрул-вики:
+    git clone <github.com/MalusAutumnalis/Pathfinder-Crusade-Wiki#> ../pathfinder-crusade-wiki
+Путь можно поменять в sources.yaml.

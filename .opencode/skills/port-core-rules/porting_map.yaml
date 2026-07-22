@@ -1,0 +1,12 @@
+- target: "i создание персонажа/архетипы/паладин.md"
+  source_headings:
+    - "Paladin"                    # заголовок(и) в data/core_rules/Black_Crusade.md
+    - "Paladin > Oaths"
+  status: not_started              # not_started | in_progress | done | needs_review
+  notes: ""
+
+- target: "iv арсенал/рукопашное оружие/базовое.md"
+  source_headings:
+    - "Melee Weapons > Basic"
+  status: done
+  notes: ""

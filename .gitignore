@@ -1,0 +1,6 @@
+chroma_db/
+data/core_rules/*.md
+*.pdf                    
+__pycache__/
+*.pyc
+.env

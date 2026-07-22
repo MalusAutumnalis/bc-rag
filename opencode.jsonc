@@ -1,0 +1,32 @@
+{
+    "$schema": "https://opencode.ai/config.json",
+    "provider": {
+        "lmstudio": {
+            "name": "LmStudio",
+            "npm": "@ai-sdk/openai-compatible",
+            "options": {
+                "baseURL": "http://localhost:1234/v1"
+            },
+        },
+    },
+    "mcp": {
+        "black-crusade-rules": {
+            "type": "local",
+            "command": [
+                "uv",
+                "run",
+                "python",
+                "mcp_server/server.py"
+            ],
+            "enabled": true
+        }
+    },
+    "permission": {
+        "external_directory": {
+            "../pathfinder-crusade-wiki/**": "allow"
+        },
+        "edit": {
+            "../pathfinder-crusade-wiki/**": "ask"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+[project]
+name = "bc-rag"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "docling>=2.114.0",
+    "mcp>=1.28.1",
+    "pymorphy3>=2.0.6",
+    "pymorphy3-dicts-ru>=2.4.417150.4580142",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+    "sentence-transformers>=5.6.0",
+]
