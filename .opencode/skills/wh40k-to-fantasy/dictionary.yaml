@@ -34,3 +34,5 @@ inflected:
   - from: "Psyniscience"
     to: "Spellcraft"
     to_ru: "Искусство Магии"
+  - from: "Очко Бесчестья"
+    to: "Очко Славы"
