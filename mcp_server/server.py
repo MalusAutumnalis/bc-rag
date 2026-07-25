@@ -1,19 +1,17 @@
 # mcp_server/server.py
 import chromadb
-import requests
-from embedder import embed_query
 from mcp.server.fastmcp import FastMCP
 
-LM_STUDIO_URL = "http://127.0.0.1:1234/v1/embeddings"
-EMBED_MODEL = "bge-m3"
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "ingest"))
+
+from embedder import embed_query
 
 mcp = FastMCP("black-crusade-rules")
 client = chromadb.PersistentClient(path="chroma_db")
 coll = client.get_collection("black_crusade")
-
-def embed_query(text: str) -> list[float]:
-    r = requests.post(LM_STUDIO_URL, json={"model": EMBED_MODEL, "input": [text]})
-    return r.json()["data"][0]["embedding"]
 
 @mcp.tool()
 def search_rules(query: str, source: str = "any", k: int = 5) -> str:
