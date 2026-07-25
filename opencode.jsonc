@@ -22,11 +22,21 @@
         }
     },
     "permission": {
+        "read": {
+            "D:/Work/Pet/pathfinder-crusade-wiki/**": "allow"
+        },
         "external_directory": {
-            "../pathfinder-crusade-wiki/**": "allow"
+            "D:/Work/Pet/pathfinder-crusade-wiki/**": "allow"
         },
         "edit": {
-            "../pathfinder-crusade-wiki/**": "ask"
+            "D:/Work/Pet/pathfinder-crusade-wiki/**": "allow"
+        },
+        "bash": {
+            "*": "ask",
+            "git commit *": "deny",
+            "git add *": "allow",
+            "git status": "allow",
+            "git diff *": "allow"
         }
     }
 }
