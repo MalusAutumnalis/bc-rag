@@ -907,139 +907,139 @@
 - category: talents
   key: Bodyguard
   name_ru: Телохранитель
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Catfall
   name_ru: Кошачье Приземление
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Chomper
   name_ru: Кусака
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Escape Artist
   name_ru: Освобождение от Пут
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Flip
   name_ru: Кувырок
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Flourish Dance
   name_ru: Размашистый Танец
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: High Guard
   name_ru: Высокая Защитная Стойка
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Pirouette
   name_ru: Пируэт
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Blade Reader
   name_ru: Чтец Клинков
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Caution
   name_ru: Осторожность
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Combat Master
   name_ru: Мастер Боя
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Counterfeint
   name_ru: Контрфинт
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Deflect Shot
   name_ru: Отбить Выстрел
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Hard Target
   name_ru: Трудная Цель
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Meat Shield
   name_ru: Живой Щит
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Salto
   name_ru: Сальто
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Sl ip Away
   name_ru: Ускользнуть
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Speed Awareness
   name_ru: Скоростная Внимательность
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Adrenaline Rush
   name_ru: Прилив Адреналина
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Blade Shield
   name_ru: Щит Клинков
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Bulwark
   name_ru: Оплот
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Snapshot
   name_ru: Выстрел Навскидку
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
   key: Step Aside
   name_ru: Шаг в Сторону
-  target: iii продвижение/таланты/4 избегание.md
+  target: iii продвижение/таланты/04 избегание.md
   status: done
   notes: ''
 - category: talents
@@ -6723,19 +6723,19 @@
 - category: psychic_powers
   key: Warp-Quake
   name_ru: Варпотрясение
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
   key: Righteous Sword
   name_ru: Праведный Меч
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
   key: Banishment
   name_ru: Изгнание
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
@@ -6771,31 +6771,31 @@
 - category: psychic_powers
   key: Quicksilver
   name_ru: Ртуть
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
   key: Sanctuary
   name_ru: Святилище
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
   key: Malleus Maleficarum
   name_ru: Молот Ведьм
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
   key: Cleansing Flame
   name_ru: Очищающее Пламя
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
   key: Purge Soul
   name_ru: Очищение Души
-  target: v магия/заклинания/4 чистая демонология.md
+  target: v магия/заклинания/04 чистая демонология.md
   status: not_started
   notes: ''
 - category: psychic_powers
