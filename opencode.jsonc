@@ -33,6 +33,8 @@
         },
         "bash": {
             "*": "ask",
+            "uv run *": "allow",
+            "python *": "ask",
             "git commit *": "deny",
             "git add *": "allow",
             "git status": "allow",

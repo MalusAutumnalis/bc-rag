@@ -31,3 +31,6 @@ inflected:
   - from: "Psyker (Trait)"
     to: "Caster (Trait)"
     to_ru: "Заклинатель (Трейт)"
+  - from: "Psyniscience"
+    to: "Spellcraft"
+    to_ru: "Искусство Магии"
