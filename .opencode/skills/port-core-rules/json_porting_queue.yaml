@@ -2,655 +2,655 @@
   key: Acrobatics
   name_ru: Акробатика
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Athletics
   name_ru: Атлетика
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Awareness
   name_ru: Внимательность
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Charm
   name_ru: Очарование
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Command
   name_ru: Командование
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Commerce
   name_ru: Торговля
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Common Lore (Adeptus Arbites)
   name_ru: Общие Знания (Adeptus Arbites)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Adeptus Astra Telepathica)
   name_ru: Общие Знания (Adeptus Astra Telepathica)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Administratum)
   name_ru: Общие Знания (Administratum)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Archenemy)
   name_ru: Общие Знания (Archenemy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Chaos)
   name_ru: Общие Знания (Chaos)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Crime)
   name_ru: Общие Знания (Crime)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Common Lore (Ecclesiarchy)
   name_ru: Общие Знания (Ecclesiarchy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Imperial Creed)
   name_ru: Общие Знания (Imperial Creed)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Imperial Guard)
   name_ru: Общие Знания (Imperial Guard)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Imperial Fleet)
   name_ru: Общие Знания (Imperial Fleet)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Imperium)
   name_ru: Общие Знания (Imperium)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Intrigue)
   name_ru: Общие Знания (Intrigue)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Common Lore (Sump)
   name_ru: Общие Знания (Sump)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Common Lore (Tech)
   name_ru: Общие Знания (Tech)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (Toil)
   name_ru: Общие Знания (Toil)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Common Lore (War)
   name_ru: Общие Знания (War)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Common Lore (<Регион>)
   name_ru: Общие Знания (<Регион>)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Deceive
   name_ru: Обман
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Dodge
   name_ru: Уклонение
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Forbidden Lore (Astartes)
   name_ru: Запретные Знания (Astartes)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Astartes Implants)
   name_ru: Запретные Знания (Astartes Implants)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Archeotech)
   name_ru: Запретные Знания (Archeotech)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Codex Astartes)
   name_ru: Запретные Знания (Codex Astartes)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Daemons)
   name_ru: Запретные Знания (Daemons)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Followers of Chaos (<Регион>))
   name_ru: Запретные Знания (Followers of Chaos (<Регион>))
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Heresy)
   name_ru: Запретные Знания (Heresy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Horus Heresy and Long War)
   name_ru: Запретные Знания (Horus Heresy and Long War)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Inquisition)
   name_ru: Запретные Знания (Inquisition)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Mechanicum)
   name_ru: Запретные Знания (Mechanicum)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Mutants)
   name_ru: Запретные Знания (Mutants)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Forbidden Lore (Navigators)
   name_ru: Запретные Знания (Navigators)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Pirates)
   name_ru: Запретные Знания (Pirates)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Psykers)
   name_ru: Запретные Знания (Psykers)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Underworld)
   name_ru: Запретные Знания (Underworld)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Forbidden Lore (Warp)
   name_ru: Запретные Знания (Warp)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Warp, Daemons and Psykers)
   name_ru: Запретные Знания (Warp, Daemons and Psykers)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Forbidden Lore (Xenobiology)
   name_ru: Запретные Знания (Xenobiology)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Forbidden Lore (Xenos (<Раса>))
   name_ru: Запретные Знания (Xenos (<Раса>))
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Forbidden Lore (Xenos Occult (<Раса>))
   name_ru: Запретные Знания (Xenos Occult (<Раса>))
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Inquiry
   name_ru: Расспрос
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Interrogate
   name_ru: Допрос
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Intimidate
   name_ru: Запугивание
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Linguistics (Low Gothic)
   name_ru: Язык (Low Gothic)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Linguistics (High Gothic)
   name_ru: Язык (High Gothic)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Linguistics (Binary Cant)
   name_ru: Язык (Binary Cant)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Linguistics (Chaos Glyphs)
   name_ru: Язык (Chaos Glyphs)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Linguistics (True Tongue)
   name_ru: Язык (True Tongue)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Linguistics (Battle Cant (<Организация>))
   name_ru: Язык (Battle Cant (<Организация>))
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Logic
   name_ru: Логика
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Medicae
   name_ru: Медицина
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Navigation
   name_ru: Навигация
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Operate(Surface)
   name_ru: Вождение(Наземное)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Operate(Aeronautica)
   name_ru: Вождение(Полет)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Operate(Voidship)
   name_ru: Вождение(Корабль)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Parry
   name_ru: Парирование
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Psyniscience
   name_ru: Психочутье
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scholastic Lore (Astromancy)
   name_ru: Ученые Знания (Astromancy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Beasts)
   name_ru: Ученые Знания (Beasts)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Bureaucracy)
   name_ru: Ученые Знания (Bureaucracy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scholastic Lore (Chymistry)
   name_ru: Ученые Знания (Chymistry)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Cryptology)
   name_ru: Ученые Знания (Cryptology)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Heraldry)
   name_ru: Ученые Знания (Heraldry)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Imperial Creed)
   name_ru: Ученые Знания (Imperial Creed)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scholastic Lore (Judgement)
   name_ru: Ученые Знания (Judgement)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scholastic Lore (Legend)
   name_ru: Ученые Знания (Legend)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scholastic Lore (Navis Nobilite)
   name_ru: Ученые Знания (Navis Nobilite)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scholastic Lore (Numerology)
   name_ru: Ученые Знания (Numerology)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Occult)
   name_ru: Ученые Знания (Occult)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Philosophy)
   name_ru: Ученые Знания (Philosophy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Scholastic Lore (Tactica Imperialis)
   name_ru: Ученые Знания (Tactica Imperialis)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Scrutiny
   name_ru: Пристальность
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Security
   name_ru: Безопасность
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Sleight of Hand
   name_ru: Ловкость Рук
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Stealth
   name_ru: Скрытность
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Survival
   name_ru: Выживание
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Tech-Use
   name_ru: Технология
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Trade (Archaeologist)
   name_ru: Ремесло (Archaeologist)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Architect)
   name_ru: Ремесло (Architect)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Armourer)
   name_ru: Ремесло (Armourer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Astrographer)
   name_ru: Ремесло (Astrographer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Trade (Calligraphy)
   name_ru: Ремесло (Calligraphy)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Carpenter)
   name_ru: Ремесло (Carpenter)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Chymist)
   name_ru: Ремесло (Chymist)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Cook)
   name_ru: Ремесло (Cook)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Dancer)
   name_ru: Ремесло (Dancer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Earthworks)
   name_ru: Ремесло (Earthworks)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Engineer)
   name_ru: Ремесло (Engineer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Farmer)
   name_ru: Ремесло (Farmer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Instructor)
   name_ru: Ремесло (Instructor)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Jeweler)
   name_ru: Ремесло (Jeweler)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Linguist)
   name_ru: Ремесло (Linguist)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Mason)
   name_ru: Ремесло (Mason)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Musician)
   name_ru: Ремесло (Musician)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Painter)
   name_ru: Ремесло (Painter)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Remembrancer)
   name_ru: Ремесло (Remembrancer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Scrimshawer)
   name_ru: Ремесло (Scrimshawer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Shipwright)
   name_ru: Ремесло (Shipwright)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Trade (Soothsayer)
   name_ru: Ремесло (Soothsayer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Stylist)
   name_ru: Ремесло (Stylist)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Tailor)
   name_ru: Ремесло (Tailor)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Technomat)
   name_ru: Ремесло (Technomat)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: skills
   key: Trade (Voidfarer)
   name_ru: Ремесло (Voidfarer)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: needs_review
   notes: ''
 - category: skills
   key: Trade (Weaponsmith)
   name_ru: Ремесло (Weaponsmith)
   target: iii продвижение/навыки.md
-  status: not_started
+  status: done
   notes: ''
 - category: talents
   key: Combat Formation
