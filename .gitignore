@@ -1,5 +1,6 @@
 chroma_db/
 data/core_rules/*.md
+data/core_rules/*.json
 *.pdf                    
 __pycache__/
 *.pyc

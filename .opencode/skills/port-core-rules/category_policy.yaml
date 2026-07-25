@@ -1,0 +1,33 @@
+include:
+  skills:
+    mode: light_adapt
+    group_by: null
+  talents:
+    mode: light_adapt
+    group_by: category
+  traits:
+    mode: light_adapt
+    group_by: null
+  chems:
+    mode: adapt
+    group_by: [gearType, entryType]
+  instrument:
+    mode: light_adapt
+    group_by: [gearType, entryType]
+  gear:
+    mode: light_adapt
+    group_by: [gearType, entryType]
+  psychic_powers:
+    mode: adapt
+    group_by: [discipline, subdiscipline]
+
+exclude:
+  elite_archetypes: "Завязаны на характеристику Cor и конкретных Chaos Gods"
+  implants: "Био-технологика вне сеттинга"
+  tech_powers: "Адептус Механикус / техножрецы вне сеттинга"
+  power_shield: "Энергетические щиты вне сеттинга"
+  steeds: "Отдельная задача"
+  ranged: "Уже перенесено вручную"
+  melee: "Уже перенесено вручную"
+  armour: "Уже перенесено вручную"
+  characteristics: "Уже часть системы"
